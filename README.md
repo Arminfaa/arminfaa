@@ -82,7 +82,7 @@ Production-oriented applications — not portfolio demos.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Arminfaa/planora">Planora</a></h3>
+      <h3><a href="https://github.com/Arminfaa/planora-app">Planora</a></h3>
       <p><em>Production-ready project management platform</em></p>
       <p>
         Real-time Kanban · Activity Feed · RBAC (37+ permissions)<br />
@@ -110,7 +110,7 @@ Production-oriented applications — not portfolio demos.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Arminfaa/cove">Cove</a></h3>
+      <h3><a href="https://github.com/Arminfaa/cove-app">Cove</a></h3>
       <p><em>Production-oriented hotel booking platform</em></p>
       <p>
         Interactive Maps · Booking Flows<br />
@@ -123,7 +123,7 @@ Production-oriented applications — not portfolio demos.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Arminfaa/shopora">Shopora</a></h3>
+      <h3><a href="https://github.com/Arminfaa/shopora-app">Shopora</a></h3>
       <p><em>Modern multilingual e-commerce platform</em></p>
       <p>
         Storefront · Dashboard · Authentication<br />
@@ -138,7 +138,7 @@ Production-oriented applications — not portfolio demos.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Arminfaa/storyhub">StoryHub</a></h3>
+      <h3><a href="https://github.com/Arminfaa/StoryHub">StoryHub</a></h3>
       <p><em>Production-ready Blog CMS</em></p>
       <p>
         Multilingual Content · SEO-first Architecture<br />
@@ -151,7 +151,7 @@ Production-oriented applications — not portfolio demos.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Arminfaa/formora">Formora</a></h3>
+      <h3><a href="https://github.com/Arminfaa/formora-app">Formora</a></h3>
       <p><em>Dynamic Form Builder</em></p>
       <p>
         Drag &amp; Drop Builder · Schema Validation<br />
