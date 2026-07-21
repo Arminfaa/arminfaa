@@ -11,9 +11,9 @@
 
   [![Visitors](https://komarev.com/ghpvc/?username=Arminfaa&label=Profile%20views&color=3b82f6&style=flat-square)](https://github.com/Arminfaa)
   [![GitHub followers](https://img.shields.io/github/followers/Arminfaa?label=Followers&style=flat-square&color=64748b)](https://github.com/Arminfaa)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-  [![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-fatehi-366b64260/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://arminfatehi.ir)
+  [![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:arminfaa@gmail.com)
 
   <br />
 
@@ -350,11 +350,11 @@ Open to conversations about frontend architecture, product engineering, and prod
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-arminfatehi.ir-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://arminfatehi.ir)
   &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Armin_Fatehi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Armin_Fatehi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-fatehi-366b64260/)
   &nbsp;
-  [![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+  [![Email](https://img.shields.io/badge/Email-arminfaa@gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arminfaa@gmail.com)
   &nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-Arminfaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arminfaa)
 
