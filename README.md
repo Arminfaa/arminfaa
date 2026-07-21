@@ -264,26 +264,10 @@ Organized by how I actually use it — not a badge wall.
 ## GitHub Stats
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arminfaa&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=e2e8f0&icon_color=3b82f6&text_color=94a3b8&ring_color=3b82f6"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Arminfaa&theme=transparent&hide_border=true&ring=3B82F6&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B"
-    height="165"
-    alt="GitHub Streak"
-  />
-
+  <img src="./assets/stats/stats.png" height="170" alt="GitHub Stats" />
+  <img src="./assets/stats/streak.png" height="170" alt="GitHub Streak" />
   <br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arminfaa&layout=compact&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=94a3b8&langs_count=8"
-    height="165"
-    alt="Top Languages"
-  />
-
+  <img src="./assets/stats/langs.png" height="170" alt="Top Languages" />
 </div>
 
 <br />
@@ -295,13 +279,7 @@ Organized by how I actually use it — not a badge wall.
 ## Contribution Graph
 
 <div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arminfaa&theme=github-dark&bg_color=0a0e12&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true"
-    alt="Contribution Activity Graph"
-    width="100%"
-  />
-
+  <img src="./assets/stats/activity.png" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 <br />
