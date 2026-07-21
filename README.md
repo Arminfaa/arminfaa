@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Armin Fatehi — Frontend Engineer" width="100%" />
+  <img src="./assets/banner.png" alt="Armin Fatehi — Frontend Engineer" width="100%" />
 
   <br /><br />
 
