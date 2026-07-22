@@ -54,7 +54,7 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 
   <!-- Typography block -->
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="360" y="145" fill="#F8FAFC" font-size="56" font-weight="700" letter-spacing="-1.2">Armin Fatehi</text>
+    <text x="360" y="145" fill="#F8FAFC" font-size="56" font-weight="700" letter-spacing="2">Armin Fatehi</text>
     <text x="360" y="202" fill="url(#logoGrad)" font-size="28" font-weight="700" letter-spacing="3.5">FRONTEND ENGINEER</text>
     <text x="360" y="252" fill="#E2E8F0" font-size="20" font-weight="500" letter-spacing="0.5">React  |  Next.js  |  TypeScript</text>
   </g>
